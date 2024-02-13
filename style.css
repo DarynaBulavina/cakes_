@@ -1,0 +1,39 @@
+header img { 
+    height: 60px;
+    width: 60px;
+}
+header p { 
+    font-size: 30px;
+}
+h1,h2{ 
+    text-align: center;
+}
+header { 
+    background-color: lightpink;
+}
+p img { 
+    height: 250px;
+    width: 250px;
+    float: left;
+}
+p { 
+    font-size: 25px;
+}
+.HB { 
+    float: right;
+}
+body { 
+    background-color: rgb(221, 53, 131);
+}
+footer { 
+    background-color: lightpink;
+}
+nav a { 
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: wheat;
+    margin: 20px;
+}
