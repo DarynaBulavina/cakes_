@@ -27,6 +27,7 @@ body {
 }
 footer { 
     background-color: lightpink;
+    margin: 10px;
 }
 nav a { 
     font-size: 20px;
