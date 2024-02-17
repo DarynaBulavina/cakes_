@@ -37,3 +37,6 @@ nav a {
     background-color: wheat;
     margin: 20px;
 }
+nav{ 
+    text-align: center;
+}
